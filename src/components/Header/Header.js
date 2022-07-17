@@ -2,7 +2,7 @@ import React from "react";
 import "./Header.css";
 import CV from "../../CV/myCV.docx";
 import idea from "../../media/social-media.gif";
-import { BsLinkedin, BsGithub } from "react-icons/bs";
+import { BsLinkedin, BsGithub } from "react-icons/bs"
 import { SiUpwork } from "react-icons/si";
 import { useState, useEffect } from "react";
 import { TbArrowBigRightLines } from "react-icons/tb";
