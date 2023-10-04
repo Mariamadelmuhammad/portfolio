@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.324a928c.css",
+    "main.js": "/portfolio/static/js/main.646ee347.js",
+    "static/js/787.28cb0dcd.chunk.js": "/portfolio/static/js/787.28cb0dcd.chunk.js",
+    "static/media/react-portfolio.png": "/portfolio/static/media/react-portfolio.df3bbd5b489099a04266.png",
+    "static/media/booking.png": "/portfolio/static/media/booking.5279e1238622662ece0f.png",
+    "static/media/movie1.png": "/portfolio/static/media/movie1.2042cbcb9418062f1555.png",
+    "static/media/social-media.gif": "/portfolio/static/media/social-media.c425a61ef0966f7c2ac0.gif",
+    "static/media/img1.png": "/portfolio/static/media/img1.3717f8082a180f39158b.png",
+    "static/media/myCV.docx": "/portfolio/static/media/myCV.e28096e4841db64ba0a5.docx",
+    "static/media/figma.png": "/portfolio/static/media/figma.1008be2c7c0703ddebfb.png",
+    "static/media/me1.jpeg": "/portfolio/static/media/me1.0b1b5ee5a1ef08043a1e.jpeg",
+    "static/media/girl.png": "/portfolio/static/media/girl.4b0384f63a8691172654.png",
+    "static/media/img2.jpeg": "/portfolio/static/media/img2.0d4575b53a3dd7eda20b.jpeg",
+    "static/media/bg.jpg": "/portfolio/static/media/bg.ad28e25f824625fabb24.jpg",
+    "index.html": "/portfolio/index.html",
+    "main.324a928c.css.map": "/portfolio/static/css/main.324a928c.css.map",
+    "main.646ee347.js.map": "/portfolio/static/js/main.646ee347.js.map",
+    "787.28cb0dcd.chunk.js.map": "/portfolio/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.324a928c.css",
+    "static/js/main.646ee347.js"
+  ]
+}
